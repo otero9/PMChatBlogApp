@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/adrianotero/eclipse-workspace/Tensorflow-Chatbot-master/Bot/model.tflearn"
+all_model_checkpoint_paths: "/Users/adrianotero/eclipse-workspace/Tensorflow-Chatbot-master/Bot/model.tflearn"

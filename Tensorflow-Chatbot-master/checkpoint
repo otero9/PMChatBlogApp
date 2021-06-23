@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\adrianotero\\eclipse-workspace\\Tensorflow_Chatbot\\model.tflearn"
+all_model_checkpoint_paths: "C:\\Users\\adrianotero\\eclipse-workspace\\Tensorflow_Chatbot\\model.tflearn"
